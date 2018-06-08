@@ -2,10 +2,8 @@ import unittest
 
 
 def solution(A):
-    if len(A) == 0:
-        return 0
-    max_profit, min_slice = 0, A[0]
-    for a in A[1:]:
+    max_profit, min_slice = 0, 200001
+    for a in A:
         max_profit = max(max_profit, a - min_slice)
         min_slice = min(a, min_slice)
     return max_profit

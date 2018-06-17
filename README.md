@@ -16,3 +16,6 @@
 ### lesson10
 * Flags
 * Peaks
+
+### lesson12
+* CommonPrimeDivisors

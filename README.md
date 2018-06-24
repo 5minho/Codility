@@ -26,3 +26,6 @@
 ### lesson14
 * NailingPlanks
 * MinMaxDivision
+
+### lesson15
+* MinAbsSumOfTwo

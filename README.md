@@ -29,3 +29,6 @@
 
 ### lesson15
 * MinAbsSumOfTwo
+
+### lesson17
+* MinAbsSum
